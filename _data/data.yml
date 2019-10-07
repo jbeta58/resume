@@ -228,7 +228,7 @@ courses:
 
 
 skills:
-    title: Habilidades &amp; Competencias
+    title: Habilidades #&amp; Competencias
 
     toolset:
       - name: Microsoft Excel
