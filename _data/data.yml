@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Juan Sebastián Betancourt Tabares
-    tagline: Analista de Datos
+    tagline: Analista de Inteligencia de Negocios
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,10 +33,13 @@ sidebar:
         level: Avanzado
 
     interests:
-      - item: Entrenamiento Funcional
+      - item: Senderismo
         link:
 
       - item: Lectura
+        link:
+
+      - item: Cine
         link:
 
       - item: Cocina
@@ -44,6 +47,10 @@ sidebar:
         
       - item: Viajes
         link:
+
+      - item: Fútbol
+        link:
+
 
 career-profile:
     title: Perfil
@@ -288,30 +295,21 @@ skills:
 
 
 references:
-    - name: Gloria Enith Orozco Ospina
-      company: Grupo Empresarial BIO, Armenia
-      phone: (6) 731 26 69
-      mail: administracion@constructorabio.com
+    - name: María Fernanda Llano
+      company: Yuxi Global S.A.S., Medellín
+      phone: 313 787 4526
+      mail: maria.llano@yuxiglobal.com
 
-    - name: Carlos Holmes Dávila
-      company: Seguros Bolivar S.A., Montería
-      phone: (4) 782 35 82
-      mail: 
+    - name: Humberto Carlos Ramos Vergara
+      company: Proyecto Inmobiliario RIO | Berah Construcciones, Montería
+      phone: 317 668 37 52
+      mail: humbertocrv@hotmail.com
 
-    - name: Liliana Leonor Palomino
-      company: Berah Construcciones S.A.S., Montería
-      phone: 316 480 18 25
-      mail: 
+    - name: Carlos David Perez
+      company: Novaventa | Nutresa, Montería
+      phone: 317 366 36 42
+      mail: carlosdavidperez@gmail.com
 
-    - name: Ana Milena Galeano
-      company: Compañía BVG, Armenia
-      phone: (6) 731 30 10 - 312 207 24 39
-      mail: 
-
-    - name: Francisco Javier Pinzón
-      company: Oeste Pizza, Armenia
-      phone: (6) 749 43 91
-      mail: 
 
 
 
