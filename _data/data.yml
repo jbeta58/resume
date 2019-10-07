@@ -254,10 +254,10 @@ skills:
         level: 80%
         
       - name: Python
-        level: 70%
+        level: 80%
 
       - name: SQL
-        level: 50%
+        level: 70%
 
       - name: Jupyter Notebooks
         level: 80%
@@ -268,7 +268,7 @@ skills:
       - name: FOMPLUS (ERP)
         level: 95%
 
-      - name: Bizagi
+      - name: Bizagi (BPM)
         level: 90%
 
       - name: Microsoft Word
@@ -278,7 +278,7 @@ skills:
         level: 98%
 
       - name: Matemáticas y Estadística
-        level: 80%
+        level: 90%
 
       - name: Trabajo en Equipo
         level: 98%
