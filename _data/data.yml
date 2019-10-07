@@ -8,19 +8,19 @@ sidebar:
     courses: False # set to False if you want courses in main section instead of in sidebar
 
     # Profile information
-    name: Natalia Marín Martínez
-    tagline: Administradora de Empresas
+    name: Juan Sebastián Betancourt Tabares
+    tagline: Analista de Datos
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: nataliamarin63@gmail.com
-    phone: 316 626 66 53
+    email: jbeta58@gmail.com
+    phone: 317 516 22 49
     website:  #do not add http://   ----    blog.webjeda.com
-    linkedin: nataliamarin63
+    linkedin: jbeta58
     github: 
     gitlab:
     bitbucket:
-    twitter: '@nataliamarin63'
+    twitter: '@jbeta58'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -30,7 +30,7 @@ sidebar:
         level: Nativo
 
       - idiom: Inglés
-        level: Básico
+        level: Avanzado
 
     interests:
       - item: Entrenamiento Funcional
