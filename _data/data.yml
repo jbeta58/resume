@@ -73,9 +73,20 @@ career-profile:
 
 other-skills:
 
-    - name: Administración de Proyectos
+    - name: Análisis de Datos
       details: |
-           - Preparé 50+ pagos mensuales en sucursal virtual, cheques y en efectivo.
+           - 
+
+    - name: Análisis Financiero
+      details: |
+           - 
+
+    - name: Gerencia de Proyectos
+      details: |
+           - 
+
+    - name: Mejora de Procesos
+      details: |
            - 
 
 
@@ -98,56 +109,48 @@ experiences:
       time: Enero 2019 - Presente
       company: Yuxi Global S.A.S., Armenia
       details: |
-           - Preparé 50+ pagos mensuales en sucursal virtual, cheques y en efectivo.
            - 
 
     - role: Administrador de Oficina
       time: Junio 2018 - Presente
       company: Yuxi Global S.A.S., Armenia
       details: |
-           - Recuperé cartera de clientes a través de la identificación y depuración de inconsistencias en base de datos con más de 10.000 registros.
            - 
 
     - role: Freelancer
       time: Mayo 2017 - Mayo 2018
       company: Independiente, Armenia
       details: |
-           - Administré la facturación y cobro de alquiler de equipos de construcción de 30+ clientes.
            - 
 
     - role: Subgerente Administrativo y Financiero
       time: Septiembre 2015 - Marzo 2017
       company: Proyecto Inmobiliario RIO S.A.S., Montería
       details: |
-           - Gestioné el proceso de entrada, salida y facturación de 50+ huéspedes diarios.
            - 
 
     - role: Gerente de Proyecto
       time: Septiembre 2011 - Enero 2014
       company: Unión Temporal Eléctricos, Montería
       details: |
-           - Serví a 40+ clientes diarios en uno de los mejores restaurantes de comida italiana de la ciudad.
            - 
 
     - role: Subgerente Administrativo y de Calidad
       time: Febrero 2009 - Agosto 2015
       company: Berah Construcciones S.A.S., Montería
       details: |
-           - Serví a 40+ clientes diarios en uno de los mejores restaurantes de comida italiana de la ciudad.
            - 
 
     - role: Supervisor de Instalaciones Eléctricas y de Comunicaciones
       time: Febrero 2009 - Agosto 2015
       company: Berah Construcciones S.A.S., Montería
       details: |
-           - Serví a 40+ clientes diarios en uno de los mejores restaurantes de comida italiana de la ciudad.
            - 
                       
     - role: Ingeniero Residente
       time: Enero 2008 - Junio 2008
       company: Edgar Francisco Gómez, Bogotá
       details: |
-           - Serví a 40+ clientes diarios en uno de los mejores restaurantes de comida italiana de la ciudad.
            - 
 
 
@@ -241,25 +244,40 @@ skills:
       - name: Microsoft Excel
         level: 98%
 
-      - name: SIEWIN (ERP)
+      - name: VBA
         level: 90%
 
-      - name: SIEBEL (CRM)
-        level: 95%
+      - name: Microsoft Power BI
+        level: 90%
 
-      - name: TRONADOR (BD)
-        level: 95%
+      - name: DAX
+        level: 80%
+        
+      - name: Python
+        level: 70%
 
-      - name: SIMASOL
-        level: 95%
-      
-      - name: FOMPLUS (ERP)
+      - name: SQL
+        level: 50%
+
+      - name: Jupyter Notebooks
         level: 80%
 
-      - name: Microsoft Word
+      - name: Midasoft (ERP)
+        level: 80%
+
+      - name: FOMPLUS (ERP)
+        level: 95%
+
+      - name: Bizagi
         level: 90%
 
+      - name: Microsoft Word
+        level: 98%
+
       - name: Microsoft Power Point
+        level: 98%
+
+      - name: Matemáticas y Estadística
         level: 80%
 
       - name: Trabajo en Equipo
@@ -268,15 +286,17 @@ skills:
       - name: Resolución de problemas
         level: 90%
 
-      - name: Trabajo bajo presión
+      - name: Pensamiento Ágil
         level: 90%
 
-      - name: Sentido de Pertenencia
+      - name: Orientado a Resultados
         level: 100%
 
       - name: Responsable
         level: 100%
 
+      - name: Asertivo
+        level: 100%
 
 references:
     - name: María Fernanda Llano Gaviria
