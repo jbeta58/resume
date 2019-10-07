@@ -44,12 +44,13 @@ sidebar:
 
       - item: Cocina
         link:
+
+      - item: Fútbol
+        link:
         
       - item: Viajes
         link:
 
-      - item: Fútbol
-        link:
 
 
 career-profile:
@@ -157,7 +158,7 @@ experiences:
 education:
     - degree: Magister en Administración de Empresas
       university: Universidad Pontificia Bolivariana, Montería
-      time: Agosto 2015 - Noviembre 2017
+      time: 2015 - 2017
       details: |
          Énfasis en Finanzas
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -171,7 +172,7 @@ education:
 
     - degree: Ingeniero Electrónico
       university: Universidad Nacional de Colombia, Bogotá
-      time: Febrero 2002 - Septiembre 2007
+      time: 2002 - 2007
       details: |
 
 
@@ -241,11 +242,6 @@ skills:
     title: Habilidades #&amp; Competencias
 
     toolset:
-      - name: Microsoft Excel
-        level: 98%
-
-      - name: VBA
-        level: 90%
 
       - name: Microsoft Power BI
         level: 90%
@@ -253,6 +249,12 @@ skills:
       - name: DAX
         level: 80%
         
+      - name: Microsoft Excel
+        level: 98%
+
+      - name: VBA
+        level: 90%
+
       - name: Python
         level: 80%
 
