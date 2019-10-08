@@ -110,7 +110,12 @@ experiences:
       time: Junio 2018 - Presente
       company: Yuxi Global S.A.S., Armenia
       details: |
-           - 
+           - Diseño informes mensuales en Power BI con KPIs que representan la gestión de 100+ colaboradores y
+           ventas de 5+ millones de dólares anuales, a partir de diversas fuentes de información (bases de datos y
+           Excel) y permite la toma de decisiones y generación de valor para el propietario.
+           - Elaboro análisis financieros y propongo recomendaciones para oportunidades de negocios usando métodos
+           como VPN, TIR, entre otros.
+           - Administro la sede de operaciones de Armenia con capacidad de 30+ puestos de trabajo.
 
 #    - role: Lider de Oficina
 #      time: Junio 2018 - Presente
@@ -148,7 +153,7 @@ experiences:
       company: Unión Temporal Eléctricos, Montería
       details: |
            - Gerencié la construcción de la Estación de Bombeo de Aguas Residuales Paraíso, por un valor
-           total de 2.500+ millones de pesos, teniendo bajo mi cargo a 30+ empleados directos e indirectos,
+           total de 2.500+ millones de pesos, teniendo bajo mi cargo a 30+ colaboradores directos e indirectos,
            cumpliendo el presupuesto, cronograma y alcance, para el beneficio de más de 80 mil personas de la
            ciudad.
 
@@ -315,10 +320,10 @@ skills:
       - name: Orientado a Resultados
         level: 100%
 
-      - name: Responsable
+      - name: Responsabilidad
         level: 100%
 
-      - name: Asertivo
+      - name: Asertividad
         level: 100%
 
 references:
