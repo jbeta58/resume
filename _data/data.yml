@@ -74,9 +74,15 @@ career-profile:
 
 other-skills:
 
+    - name: Crecimiento Empresarial
+      details: |
+           Durante 8+ años ayudé a edificar uno de los grupos empresariales del sector construcción
+           más innovadores del departamento de Córdoba, pasando de 4 a 20+ colaboradores directos, 200+
+           indirectos y ventas de 6.000 a 24.000 millones durante este periodo.
+
     - name: Análisis de Datos
       details: |
-           - 
+           - En el último año
 
     - name: Análisis Financiero
       details: |
@@ -84,7 +90,7 @@ other-skills:
 
     - name: Gerencia de Proyectos
       details: |
-           - 
+           - Durante dos años
 
     - name: Mejora de Procesos
       details: |
