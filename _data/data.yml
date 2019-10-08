@@ -107,16 +107,16 @@ experiences:
 #          - Bullet point
 
     - role: Gerente de Negocios
-      time: Enero 2019 - Presente
-      company: Yuxi Global S.A.S., Armenia
-      details: |
-           - 
-
-    - role: Lider de Oficina
       time: Junio 2018 - Presente
       company: Yuxi Global S.A.S., Armenia
       details: |
            - 
+
+#    - role: Lider de Oficina
+#      time: Junio 2018 - Presente
+#      company: Yuxi Global S.A.S., Armenia
+#      details: |
+#           - 
 
     - role: Freelancer
       time: Mayo 2017 - Mayo 2018
@@ -134,25 +134,33 @@ experiences:
       time: Septiembre 2011 - Enero 2014
       company: Unión Temporal Eléctricos, Montería
       details: |
-           - 
+           - Gerencié la construcción de la Estación de Bombeo de Aguas Residuales Paraíso, por un valor de
+           total de 2.500+ millones de pesos, teniendo bajo mi cargo a 30+ empleados directos e indirectos,
+           cumpliendo el presupuesto, cronograma y alcance, para el beneficio de más de 80 mil personas de la
+           ciudad.
 
     - role: Subgerente Administrativo y de Calidad
       time: Febrero 2009 - Agosto 2015
       company: Berah Construcciones S.A.S., Montería
       details: |
-           - 
+           - Caractericé, documenté e implementé 20+ procedimientos de los procesos Estratégicos, Misionales
+           y de Apoyo, que permitió la reducción de reprocesos y aumentó la eficiencia operativa de la
+           empresa.
 
-    - role: Supervisor de Instalaciones Eléctricas y de Comunicaciones
+    - role: Supervisor de Instalaciones Eléctricas y Domótica
       time: Febrero 2009 - Agosto 2015
       company: Berah Construcciones S.A.S., Montería
       details: |
-           - 
+           - Supervisé las instalaciones en 40+ apartamentos ubicados en dos edificios de alta gama en el
+           sector más exclusivo de la ciudad, estableciendo procedimientos de inspección eficientes para el
+           cumplimiento de los tiempos de entrega.
                       
     - role: Ingeniero Residente
       time: Enero 2008 - Junio 2008
       company: Edgar Francisco Gómez, Bogotá
       details: |
-           - 
+           - Diseñé e implementé un sistema de control automático para riego de cultivos de flores de invernaderos 
+           del SENA y CENIFLORES, logrando así el máximo aprovechamiento en la recirculación de nutrientes.
 
 
 education:
