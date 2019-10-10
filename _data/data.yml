@@ -76,25 +76,36 @@ other-skills:
 
     - name: Crecimiento Empresarial
       details: |
-           Durante 8+ años ayudé a edificar el grupo empresarial del sector construcción
+           Durante 8+ años ayudé a edificar el grupo empresarial constructor
            más innovador del departamento de Córdoba, pasando de 4 a 20+ colaboradores directos, 200+
            indirectos y ventas de 2.000 a 10.000 millones anuales durante este periodo.
-
+             
+           Ideamos desde la gerencia estrategias y tácticas para convertirla en una compañía reconocida 
+           por clientes, proveedores y colaboradores por su calidad, cumplimiento, competitividad, y 
+           ambiente laboral.
+           
     - name: Análisis de Datos
       details: |
-           - En el último año
+           En el último año
 
     - name: Análisis Financiero
       details: |
-           - Los últimos 5 años
+           Los últimos 5 años
 
     - name: Gerencia de Proyectos
       details: |
-           - Durante 2 años
+           Durante 2 años
 
     - name: Mejora de Procesos
       details: |
-           - 
+           En mi paso por Berah Construcciones y Proyecto Inmobiliario RIO conocí de primera mano cada proceso
+           de la compañía e implementé mejoras en todos sus procedimientos.
+           
+           Utilicé diversas técnicas y herramientas para identificar oportunidades de mejora, incluida la metodología
+           Lean Project Delivery System (LPDS) que a través de herramientas como Last Planner System, entre otros
+           busca la eliminación de pérdidas en los procesos de un proyecto (Planeación, Ejecución, Entrega y Posventa),
+           todo esto enmarcado en los principios de la filosofía Lean Construction.
+           
 
 
 experiences:
@@ -313,6 +324,9 @@ skills:
 
       - name: Matemáticas y Estadística
         level: 90%
+
+      - name: Lean Construction
+        level: 98%
 
       - name: Trabajo en Equipo
         level: 98%
