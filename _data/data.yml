@@ -56,12 +56,13 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-      Administradora de Empresas Innovadora, con 11+ años trabajando para importantes
-      empresas de diversos sectores (Asegurador, Construcción, Hotelería y Turismo, 
-      Comercial, entre otros). Gestión experimentada de clientes, proveedores y personal. 
-      Manejo experto de Excel y software contables. En búsqueda de un rol Ejecutivo donde 
-      pueda aplicar mis habilidades y conocimientos para crecer profesionalmente y alcanzar 
-      las metas empresariales.
+      
+      Analista de Inteligencia de Negocios, con 10+ años de experiencia en empresas de
+      software y construcción, generando valor con mis habilidades en análisis financiero, 
+      gerencia de proyectos, mejora de procesos, entre otros. Busco una empresa en la que pueda construir soluciones a partir
+      del análisis de datos y su interpretación en el mundo real, y seguir creciendo como 
+      científico de datos.
+
 
       
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
@@ -94,7 +95,7 @@ other-skills:
     - name: Análisis Financiero
       details: |
            Los últimos 5 años he contribuido con la toma de decisiones a nivel gerencial, a través de
-           la construcción de diversos informes financieros y KPIs con datos provenientes de diferentes
+           la construcción de diversos artefactos financieros y KPIs con datos provenientes de diferentes
            fuentes y procesados con macros de Excel o lenguaje DAX para la presentación en tablas dinámicas, 
            Power BI, entre otros.
 
