@@ -245,7 +245,7 @@ courses:
     - degree: Certificación en Ciencia de Datos
       university: DS4A - Correlation One
       time: 2020
-      details: Graduado con Honores
+      details: |
       
     - degree: Gerencia Estratégica de Proyectos (PMI)
       university: CAMACOL, Montería
