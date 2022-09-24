@@ -26,10 +26,10 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-        - idiom: Inglés
+      - idiom: Inglés
         level: C1
         
-        - idiom: Español
+      - idiom: Español
         level: Nativo
 
 
